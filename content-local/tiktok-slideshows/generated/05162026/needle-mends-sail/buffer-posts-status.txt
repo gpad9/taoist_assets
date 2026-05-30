@@ -1,0 +1,25 @@
+Story: The Needle Mends the Sail
+Date: 05162026
+Format: 9:16 (1080x1920)
+Style: Traditional Taoist Ink Wash
+
+TikTok (taoist.journal):
+- Post ID: pending
+- Scheduling Type: automatic
+- Status: Pending
+- Description: Resilience is never about the size of the disaster; it is the quality of the small actions you take to mend the world around you. The Tao is the realization that even the most "broken" things can be made whole again. Find the thread. Taoist Journal — link in bio. #resilience #wisdom #mindfulness #taoism #innerpeace
+- Assets:
+  1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05162026/needle-mends-sail/slide-01.png
+  2. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05162026/needle-mends-sail/slide-02.png
+  3. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05162026/needle-mends-sail/slide-03.png
+  4. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05162026/needle-mends-sail/slide-04.png
+  5. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05162026/needle-mends-sail/slide-05.png
+  6. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05162026/needle-mends-sail/slide-06.png
+  7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05162026/needle-mends-sail/slide-07.png
+
+Instagram (theinnertaoist):
+- Post ID: pending
+- Scheduling Type: automatic
+- Status: Pending
+- Description: Resilience is never about the size of the disaster; it is the quality of the small actions you take to mend the world around you. Swipe: 7 slides on why the smallest needle can fix the largest storm. Find the thread. Taoist Journal — link in bio. #resilience #wisdom #mindfulness #taoism #innerpeace
+- Assets: (Same as TikTok)
