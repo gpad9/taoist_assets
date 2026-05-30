@@ -1,0 +1,11 @@
+Story: The Stone Boat and the Dream
+Style: Traditional Taoist Ink Wash
+Aspect Ratio: 9:16 (1080x1920)
+
+Anchors:
+- Character: The wise traveler (wise old Taoist sage with a long white beard and flowing robes). The man (traditional robes, initially sleeping then carving stone).
+- Key Object: A massive stone boat (charcoal ink, visible carving marks, heavy texture). A river of silver light (vibrant silver/white wash). A mountain lake (soft ink washes).
+- World: A mountain ridge and lake on aged parchment. Muted earthy tones: sepia, beige, charcoal, and soft silver-grey. Atmospheric light and stardust.
+- Caption Anchor: Centered mid-frame (around 50% height), readable serif font, dark charcoal grey ink color. Slide 1 uses smaller, elegant typography. NEVER include phrases like "7-slide story" or "swipe through".
+
+Negative Prompt: bright colors, saturated colors, neon, modern, 3D render, photorealistic, digital cartoon, anime, manga, sharp geometric shapes, plastic texture, clean white background, harsh lighting, vibrant blue sky, modern clothing, gadgets.
