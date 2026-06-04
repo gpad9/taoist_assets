@@ -1,0 +1,25 @@
+Story: The Broken Lute String
+Date: 05192026
+Format: 9:16 (1080x1920)
+Style: Traditional Taoist Ink Wash
+
+TikTok (taoist.journal):
+- Post ID: pending
+- Scheduling Type: automatic
+- Status: Pending
+- Description: Adaptation is not pretending the string did not break; it is discovering what the remaining strings can say when you stop mourning the missing note. Play what remains. Taoist Journal — link in bio. #adaptation #wisdom #mindfulness #taoism #innerpeace
+- Assets:
+  1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-01.png
+  2. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-02.png
+  3. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-03.png
+  4. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-04.png
+  5. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-05.png
+  6. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-06.png
+  7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-07.png
+
+Instagram (theinnertaoist):
+- Post ID: pending
+- Scheduling Type: automatic
+- Status: Pending
+- Description: Adaptation is not pretending the string did not break; it is discovering what the remaining strings can say when you stop mourning the missing note. Swipe: 7 slides. Play what remains. Taoist Journal — link in bio. #adaptation #wisdom #mindfulness #taoism #innerpeace
+- Assets: (Same as TikTok)
