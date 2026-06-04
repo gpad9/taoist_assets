@@ -1,0 +1,28 @@
+Story: The Moth Circles the Lantern
+Date: 05192026
+Format: 9:16 (1080x1920)
+Style: Traditional Taoist Ink Wash
+GitHub commit: db98c73a7accd8675400c4c2f8878336c36806c8
+
+TikTok (taoist.journal):
+- Post ID: 6a20da6865573e1c89bb65b1
+- Scheduling Type: automatic
+- Status: Scheduled
+- Queued: 2026-06-15T17:24:00.000Z
+- Description: Attention is not forcing your eyes to obey; it is noticing where they go honestly, because that path often leads to what you actually seek. Notice where you look. Taoist Journal — link in bio. #attention #wisdom #mindfulness #taoism #innerpeace
+- Assets:
+  1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/moth-circles-lantern/slide-01.png
+  2. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/moth-circles-lantern/slide-02.png
+  3. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/moth-circles-lantern/slide-03.png
+  4. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/moth-circles-lantern/slide-04.png
+  5. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/moth-circles-lantern/slide-05.png
+  6. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/moth-circles-lantern/slide-06.png
+  7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/moth-circles-lantern/slide-07.png
+
+Instagram (theinnertaoist):
+- Post ID: 6a20da6b00825890c740eda5
+- Scheduling Type: automatic
+- Status: Scheduled
+- Queued: 2026-06-16T00:40:00.000Z
+- Description: Attention is not forcing your eyes to obey; it is noticing where they go honestly, because that path often leads to what you actually seek. Swipe: 7 slides. Notice where you look. Taoist Journal — link in bio. #attention #wisdom #mindfulness #taoism #innerpeace
+- Assets: (Same as TikTok)

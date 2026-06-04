@@ -1,0 +1,28 @@
+Story: The Ink Drop That Spreads
+Date: 05192026
+Format: 9:16 (1080x1920)
+Style: Traditional Taoist Ink Wash
+GitHub commit: db98c73a7accd8675400c4c2f8878336c36806c8
+
+TikTok (taoist.journal):
+- Post ID: 6a20da7c7378d40f81aa74a4
+- Scheduling Type: automatic
+- Status: Scheduled
+- Queued: 2026-06-17T10:09:00.000Z
+- Description: Influence is not always the speech you prepare; it is often the single drop that spreads through the clear water of someone's mind without asking permission. Let the drop spread. Taoist Journal — link in bio. #influence #wisdom #mindfulness #taoism #innerpeace
+- Assets:
+  1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/ink-drop-spreads/slide-01.png
+  2. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/ink-drop-spreads/slide-02.png
+  3. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/ink-drop-spreads/slide-03.png
+  4. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/ink-drop-spreads/slide-04.png
+  5. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/ink-drop-spreads/slide-05.png
+  6. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/ink-drop-spreads/slide-06.png
+  7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/ink-drop-spreads/slide-07.png
+
+Instagram (theinnertaoist):
+- Post ID: 6a20da7f65573e1c89bb668d
+- Scheduling Type: automatic
+- Status: Scheduled
+- Queued: 2026-06-17T17:55:00.000Z
+- Description: Influence is not always the speech you prepare; it is often the single drop that spreads through the clear water of someone's mind without asking permission. Swipe: 7 slides. Let the drop spread. Taoist Journal — link in bio. #influence #wisdom #mindfulness #taoism #innerpeace
+- Assets: (Same as TikTok)

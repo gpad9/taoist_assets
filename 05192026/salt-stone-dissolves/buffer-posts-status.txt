@@ -1,0 +1,28 @@
+Story: The Salt Stone Dissolves
+Date: 05192026
+Format: 9:16 (1080x1920)
+Style: Traditional Taoist Ink Wash
+GitHub commit: db98c73a7accd8675400c4c2f8878336c36806c8
+
+TikTok (taoist.journal):
+- Post ID: 6a20da7000825890c740ede0
+- Scheduling Type: automatic
+- Status: Scheduled
+- Queued: 2026-06-16T10:34:00.000Z
+- Description: Surrender is not weakness before the water; it is accepting that some gifts only work when you stop insisting on your original form. Dissolve into purpose. Taoist Journal — link in bio. #surrender #wisdom #mindfulness #taoism #innerpeace
+- Assets:
+  1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/salt-stone-dissolves/slide-01.png
+  2. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/salt-stone-dissolves/slide-02.png
+  3. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/salt-stone-dissolves/slide-03.png
+  4. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/salt-stone-dissolves/slide-04.png
+  5. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/salt-stone-dissolves/slide-05.png
+  6. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/salt-stone-dissolves/slide-06.png
+  7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/salt-stone-dissolves/slide-07.png
+
+Instagram (theinnertaoist):
+- Post ID: 6a20da7265573e1c89bb65fe
+- Scheduling Type: automatic
+- Status: Scheduled
+- Queued: 2026-06-16T21:27:00.000Z
+- Description: Surrender is not weakness before the water; it is accepting that some gifts only work when you stop insisting on your original form. Swipe: 7 slides. Dissolve into purpose. Taoist Journal — link in bio. #surrender #wisdom #mindfulness #taoism #innerpeace
+- Assets: (Same as TikTok)

@@ -1,0 +1,28 @@
+Story: The Winter Plum First Bloom
+Date: 05192026
+Format: 9:16 (1080x1920)
+Style: Traditional Taoist Ink Wash
+GitHub commit: db98c73a7accd8675400c4c2f8878336c36806c8
+
+TikTok (taoist.journal):
+- Post ID: 6a20da74bf1b946e62be8c74
+- Scheduling Type: automatic
+- Status: Scheduled
+- Queued: 2026-06-16T11:50:00.000Z
+- Description: Hope is not waiting for all the snow to melt; it is noticing the one blossom that refused to read the season as a final sentence. Notice the first bloom. Taoist Journal — link in bio. #hope #wisdom #mindfulness #taoism #innerpeace
+- Assets:
+  1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/winter-plum-first-bloom/slide-01.png
+  2. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/winter-plum-first-bloom/slide-02.png
+  3. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/winter-plum-first-bloom/slide-03.png
+  4. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/winter-plum-first-bloom/slide-04.png
+  5. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/winter-plum-first-bloom/slide-05.png
+  6. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/winter-plum-first-bloom/slide-06.png
+  7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/winter-plum-first-bloom/slide-07.png
+
+Instagram (theinnertaoist):
+- Post ID: 6a20da77e39a388093ae121d
+- Scheduling Type: automatic
+- Status: Scheduled
+- Queued: 2026-06-16T23:55:00.000Z
+- Description: Hope is not waiting for all the snow to melt; it is noticing the one blossom that refused to read the season as a final sentence. Swipe: 7 slides. Notice the first bloom. Taoist Journal — link in bio. #hope #wisdom #mindfulness #taoism #innerpeace
+- Assets: (Same as TikTok)
