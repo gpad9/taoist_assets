@@ -4,9 +4,10 @@ Format: 9:16 (1080x1920)
 Style: Traditional Taoist Ink Wash
 
 TikTok (taoist.journal):
-- Post ID: pending
+- Post ID: 6a20db9800825890c740f729
 - Scheduling Type: automatic
-- Status: Pending
+- Status: Scheduled
+- Queued: 2026-06-19T02:14:00.000Z
 - Description: Clarity is not forcing the mirror to show you what you want; it is quieting the breath that fogs what is already there. Still the breath. Taoist Journal — link in bio. #clarity #wisdom #mindfulness #taoism #innerpeace
 - Assets:
   1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/bronze-mirror-fogged/slide-01.png
@@ -18,8 +19,9 @@ TikTok (taoist.journal):
   7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/bronze-mirror-fogged/slide-07.png
 
 Instagram (theinnertaoist):
-- Post ID: pending
+- Post ID: 6a20dba47378d40f81aa7f06
 - Scheduling Type: automatic
-- Status: Pending
+- Status: Scheduled
+- Queued: 2026-06-21T01:02:00.000Z
 - Description: Clarity is not forcing the mirror to show you what you want; it is quieting the breath that fogs what is already there. Swipe: 7 slides. Still the breath. Taoist Journal — link in bio. #clarity #wisdom #mindfulness #taoism #innerpeace
 - Assets: (Same as TikTok)

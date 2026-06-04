@@ -4,9 +4,10 @@ Format: 9:16 (1080x1920)
 Style: Traditional Taoist Ink Wash
 
 TikTok (taoist.journal):
-- Post ID: pending
+- Post ID: 6a20db90bf1b946e62be9586
 - Scheduling Type: automatic
-- Status: Pending
+- Status: Scheduled
+- Queued: 2026-06-18T17:21:00.000Z
 - Description: Patience is not waiting without action; it is working with the knot instead of fighting the string that holds what you love. Loosen the knot. Taoist Journal — link in bio. #patience #wisdom #mindfulness #taoism #innerpeace
 - Assets:
   1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/red-kite-tangled-tree/slide-01.png
@@ -18,8 +19,9 @@ TikTok (taoist.journal):
   7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/red-kite-tangled-tree/slide-07.png
 
 Instagram (theinnertaoist):
-- Post ID: pending
+- Post ID: 6a20db9f61612d02b3272eb1
 - Scheduling Type: automatic
-- Status: Pending
+- Status: Scheduled
+- Queued: 2026-06-20T02:54:00.000Z
 - Description: Patience is not waiting without action; it is working with the knot instead of fighting the string that holds what you love. Swipe: 7 slides. Loosen the knot. Taoist Journal — link in bio. #patience #wisdom #mindfulness #taoism #innerpeace
 - Assets: (Same as TikTok)
