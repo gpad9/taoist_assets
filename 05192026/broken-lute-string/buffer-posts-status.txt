@@ -4,9 +4,10 @@ Format: 9:16 (1080x1920)
 Style: Traditional Taoist Ink Wash
 
 TikTok (taoist.journal):
-- Post ID: pending
+- Post ID: 6a20d88a65573e1c89bb5636
 - Scheduling Type: automatic
-- Status: Pending
+- Status: Scheduled
+- Queued: 2026-06-15T13:50:00.000Z
 - Description: Adaptation is not pretending the string did not break; it is discovering what the remaining strings can say when you stop mourning the missing note. Play what remains. Taoist Journal — link in bio. #adaptation #wisdom #mindfulness #taoism #innerpeace
 - Assets:
   1. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-01.png
@@ -18,8 +19,9 @@ TikTok (taoist.journal):
   7. https://raw.githubusercontent.com/gpad9/taoist_assets/main/05192026/broken-lute-string/slide-07.png
 
 Instagram (theinnertaoist):
-- Post ID: pending
+- Post ID: 6a20d88c61612d02b32714de
 - Scheduling Type: automatic
-- Status: Pending
+- Status: Scheduled
+- Queued: 2026-06-15T23:26:00.000Z
 - Description: Adaptation is not pretending the string did not break; it is discovering what the remaining strings can say when you stop mourning the missing note. Swipe: 7 slides. Play what remains. Taoist Journal — link in bio. #adaptation #wisdom #mindfulness #taoism #innerpeace
 - Assets: (Same as TikTok)
